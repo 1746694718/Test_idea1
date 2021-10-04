@@ -1,0 +1,75 @@
+/*table{*/
+/*    !*字体风格*!*/
+/*    font-family: 宋体;*/
+/*    !*字体的样式:斜体*!*/
+/*    font-style: italic;*/
+/*    !*color: red;*!*/
+/*}*/
+
+/*div{*/
+/*    width: 200px;*/
+/*    height: 200px;*/
+/*    background-color: royalblue;*/
+/*    !*边框的粗细 边框的风格 边框的颜色*!*/
+/*    border: 1px solid black;*/
+/*}*/
+body{
+    background-color: #ffa5a5;
+}
+
+.top_a{
+    /*字体的颜色*/
+    color: gray;
+    /*字体的大小*/
+    font-size: 12px;
+    /*字体加粗*/
+    font-weight: bold;
+    /*字体风格*/
+    font-family: 宋体;
+    /*字体倾斜*/
+    font-style: italic;
+    /*去除下划线*/
+    text-decoration:none;
+}
+a:hover{
+    color: red;
+    text-decoration: underline;
+}
+.cen{
+    width: 200px;
+    height: 200px;
+    background-color: #d5093c;
+    box-shadow: 0px 0px 70px #d5093c;
+    /*调用动画*/
+    animation: 1s aj infinite;
+}
+
+.lef{
+    /*倒圆角指令 左上右下 右上左下 如果有四个值，则按顺时针顺序*/
+    border-radius: 100px;
+    position: absolute;
+    top:200px;
+    left: 200px;
+}
+
+.rig{
+    border-radius: 100px;
+    position: absolute;
+    top:200px;
+    left: 341px;
+}
+
+.c{
+    /*旋转角度*/
+    transform: rotate(45deg);
+    position: absolute;
+    top:269px;
+    left: 271px;
+}
+/*CSS3中的动画*/
+@keyframes aj {
+    0%{transform: scale(1)rotate(45deg);}
+    50%{transform: scale(1.1)rotate(45deg);}
+    100%{transform: scale(1)rotate(45deg);}
+}
+

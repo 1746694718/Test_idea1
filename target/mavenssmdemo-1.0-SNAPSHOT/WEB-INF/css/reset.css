@@ -1,0 +1,11 @@
+/*样式初始化*/
+/*内外边距为0*/
+body,div,h1,h2,h3,h4,h5,h6,li,ol,ul{margin: 0px; padding: 0px;}
+/*文本默认剧中*/
+body{text-align: center;font-size:14px;}
+/*a标签下划线去掉*/
+a{text-decoration: none;}
+/*去掉点*/
+li{list-style: none;}
+
+
