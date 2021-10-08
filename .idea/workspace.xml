@@ -9,16 +9,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef7f87f8-f1b5-4b0a-ba27-8ca473a8c726" name="Default Changelist" comment="第一次提交">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/img/img1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/img/img2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/img/img3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/img/logo.jpg" afterDir="false" />
+    <list default="true" id="ef7f87f8-f1b5-4b0a-ba27-8ca473a8c726" name="Default Changelist" comment="京东购物商城静态网页制作">
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/pratise1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/css/JingDongCar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/css/JingDongCar.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/JingDongCar.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/JingDongCar.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mavenssmdemo-1.0-SNAPSHOT/WEB-INF/css/JingDongCar.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/mavenssmdemo-1.0-SNAPSHOT/WEB-INF/css/JingDongCar.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mavenssmdemo-1.0-SNAPSHOT/WEB-INF/jsp/JingDongCar.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/mavenssmdemo-1.0-SNAPSHOT/WEB-INF/jsp/JingDongCar.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,13 +90,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -227,7 +222,8 @@
       <workItem from="1633223984075" duration="3644000" />
       <workItem from="1633308325575" duration="11117000" />
       <workItem from="1633321617964" duration="415000" />
-      <workItem from="1633394076947" duration="3366000" />
+      <workItem from="1633394076947" duration="3593000" />
+      <workItem from="1633691160551" duration="1749000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1633317523862</created>
@@ -236,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633317523863</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="京东购物商城静态网页制作">
+      <created>1633397574866</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1633397574866</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,7 +271,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+    <MESSAGE value="京东购物商城静态网页制作" />
+    <option name="LAST_COMMIT_MESSAGE" value="京东购物商城静态网页制作" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
